@@ -1,5 +1,14 @@
 # @uploadthing/react
 
+## 4.1.1
+
+### Patch Changes
+
+- [#134](https://github.com/pingdotgg/uploadthing/pull/134)
+  [`66d3eff`](https://github.com/pingdotgg/uploadthing/commit/66d3eff789338ff613cca359b2f2aecd8be9d720)
+  Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - fix: use some
+  bundler hacks to support lower versions of React
+
 ## 4.1.0
 
 ### Patch Changes
